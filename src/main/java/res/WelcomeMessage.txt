@@ -1,0 +1,1 @@
+Welcome to the Dirty Filthy Cult {user}!\nMake sure to read the <#769961572369432648> and look for a title you would like to claim using !findTitle. Once you have found a title that has not been claimed yet, you can type !requestTitle <title> and a staff member will give you the title asap. You can change your name to any of your titles whenever you want using !setname <title>
